@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <h2> Student Courses</h2>
     
         <asp:Button ID="assignment1Button" runat="server" OnClick="assignment1Button_Click" Text="Assignment 1" />
         <br />
